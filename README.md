@@ -1,6 +1,6 @@
 # baekTeam
 
-- **김미리** : https://github.com/kimmiri1234/baekTeam
+- **김미리** : https://github.com/kimmiri1234
 
 ---
 ### 팀 url
