@@ -11,7 +11,7 @@
 - **정우진** : https://github.com/rainstorm0907
 - **김다은** : https://github.com/rlekdm
 - **조영진** : https://github.com/dawnlife
-
+- **홍성혁** : https://github.com/HsH1121
 ---
 ### 팀 url
 - **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
