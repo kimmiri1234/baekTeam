@@ -9,6 +9,7 @@
 - **이은아** : https://github.com/euna0428
 - **윤혁재** : https://github.com/YOONHyukjae
 - **이지온** : https://github.com/izzyon0121
+- **김병훈** : https://github.com/k-bang0518
 ---
 ### 팀 url
 - **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
