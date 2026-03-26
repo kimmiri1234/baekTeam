@@ -13,6 +13,7 @@
 - **김병훈** : https://github.com/k-bang0518
 - **김두현** : https://github.com/dscd3152
 - **정영우** : https://github.com/youngwoo011
+- **이훈희** : https://github.com/hunhee22
 ---
 ### 팀 url
 - **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
