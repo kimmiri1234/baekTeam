@@ -14,7 +14,13 @@
 - **권순우** : https://github.com/soon5483
 - **박지연** : https://github.com/jyeon64
 - **임수아** : https://github.com/lSOOAH
----
-### 팀 url
+- **정지원** : https://github.com/jiwon-jung323
+- **정우진** : https://github.com/rainstorm0907
+- **김다은** : https://github.com/rlekdm
+- **조영진** : https://github.com/dawnlife
+- **홍성혁** : https://github.com/HsH1121
+
+=======
 - **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
 - **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
+- **집에가고싶조** : https://github.com/shortKDT
