@@ -9,6 +9,8 @@
 - **임수아** : https://github.com/lSOOAH
 - **정지원** : https://github.com/jiwon-jung323
 - **정우진** : https://github.com/rainstorm0907
+- **조영진** : https://github.com/dawnlife
+
 ---
 ### 팀 url
 - **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
