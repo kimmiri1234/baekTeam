@@ -1,6 +1,7 @@
 # baekTeam
 
 - **김미리** : https://github.com/kimmiri1234
+- **박지연** : https://github.com/jyeon64
 - **김병현** : https://github.com/bhkim-fullstack
 - **이원석** : https://github.com/wonseok5577
 - **권순우** : https://github.com/soon5483
