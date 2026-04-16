@@ -1,7 +1,7 @@
 # baekTeam
 ### 260415
 요구사항 정의서 체크리스트
-  - 집에가고싶조: 
+  - 집에가고싶조: https://www.notion.so/343e7e39b1978058bd9cc0f308ce37e0
   - 세븐일레븐:
   - 인텔리제이조: https://docs.google.com/spreadsheets/d/1P8DQt8C622pAXwLajutz8M3Rq-7T_UCe/edit?usp=sharing&ouid=101179219969375266084&rtpof=true&sd=true
   - 남자만있조:
@@ -13,7 +13,7 @@
 ---
 ### 260407
 요구사항 정의서
-  - 집에가고싶조: https://www.notion.so/38745b6e8a9040d4b0c3cf693828f475?v=b922b4572b9442d5848482670a6f8860
+  - 집에가고싶조: https://www.notion.so/343e7e39b1978094a886ea2751b73613
   - 세븐일레븐: https://www.notion.so/337c6c4cb51580eca9cadcc9efd87728
   - 인텔리제이조: https://www.notion.so/5-33b50085f74e800bb200f52accc58b86?source=copy_link
   - 남자만있조: https://www.notion.so/334f734340a78017b915f79f01ab2ec2?v=334f734340a7804595e1000ced1050f3&p=33ef734340a780b58691e0dbdf087230&pm=s
@@ -25,7 +25,7 @@
 ---
 ### 260403
 시장 조사 및 벤치마킹
-  - 집에가고싶조: https://github.com/shortKDT/main/blob/main/ProjectInfo.md
+  - 집에가고싶조: https://www.notion.so/343e7e39b1978093bac4f74a55bdd871
   - 세븐일레븐: https://www.notion.so/332984c1fe3280b987a7d15af39ed569
   - 인텔리제이조: https://www.notion.so/1-333e5ca0a9718025aebaeb454e1d7d19
   - 남자만있조: https://superb-armchair-95d.notion.site/334f734340a78017b915f79f01ab2ec2?v=334f734340a780edbc5e000ca2c33f0a&source=copy_link
