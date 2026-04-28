@@ -5,7 +5,7 @@ DB 설계서
   - 세븐일레븐: https://www.notion.so/DB-341c6c4cb51580b096e0f42ad5df4a3f
   - 인텔리제이조: https://www.notion.so/DB-34850085f74e8067b978f702778622f6?source=copy_link
   - 남자만있조: https://docs.google.com/document/d/12mFc0J5t8JHwQMJ-VEhwHsg7dQACELoz18t9LVJoKn0/edit?usp=sharing
-  - 버그잡았조:
+  - 버그잡았조: https://docs.google.com/spreadsheets/d/1xw7_SPz5UlKLWO26Xo_mOhoRDzK6Yxx9/edit?usp=sharing&ouid=107711888499493301530&rtpof=true&sd=true
 
 
 
