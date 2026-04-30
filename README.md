@@ -1,7 +1,7 @@
 # baekTeam
 ### 260421
 DB 설계서
-  - 집에가고싶조: https://www.notion.so/db-34be7e39b197802fb946dc8b5453d449
+  - 사육사조: https://suave-kip-fd7.notion.site/db-350c2695cef08168995ed3634b26f57a
   - 세븐일레븐: https://www.notion.so/DB-341c6c4cb51580b096e0f42ad5df4a3f
   - 인텔리제이조: https://www.notion.so/DB-34850085f74e8067b978f702778622f6?source=copy_link
   - 남자만있조: https://docs.google.com/document/d/12mFc0J5t8JHwQMJ-VEhwHsg7dQACELoz18t9LVJoKn0/edit?usp=sharing
@@ -12,7 +12,7 @@ DB 설계서
 ---
 ### 260415
 요구사항 정의서 체크리스트
-  - 집에가고싶조: https://www.notion.so/348e7e39b1978078993ed717834c4c16
+  - 사육사조: https://suave-kip-fd7.notion.site/350c2695cef08165990cf9c469c427da
   - 세븐일레븐: https://docs.google.com/spreadsheets/d/1Rr_PHhZ0-knQU7tgGfCJrpSgh8f5w5kUJRJImSJZAIM/edit?gid=1901645831#gid=1901645831
   - 인텔리제이조: https://docs.google.com/spreadsheets/d/1P8DQt8C622pAXwLajutz8M3Rq-7T_UCe/edit?usp=sharing&ouid=101179219969375266084&rtpof=true&sd=true
   - 남자만있조: https://docs.google.com/spreadsheets/d/1BfHK46xCz-NtlgOw4Fbv_aa81Pl73VZ2t2uqkqDHzMg/edit?gid=596171449#gid=596171449
@@ -23,7 +23,7 @@ DB 설계서
 ---
 ### 260407
 요구사항 정의서
-  - 집에가고싶조: https://www.notion.so/343e7e39b1978094a886ea2751b73613
+  - 사육사조: https://suave-kip-fd7.notion.site/350c2695cef081989864f41776caa99d
   - 세븐일레븐: https://www.notion.so/337c6c4cb51580eca9cadcc9efd87728
   - 인텔리제이조: https://www.notion.so/5-33b50085f74e800bb200f52accc58b86?source=copy_link
   - 남자만있조: https://www.notion.so/334f734340a78017b915f79f01ab2ec2?v=334f734340a7804595e1000ced1050f3&p=33ef734340a780b58691e0dbdf087230&pm=s
@@ -35,7 +35,7 @@ DB 설계서
 ---
 ### 260403
 시장 조사 및 벤치마킹
-  - 집에가고싶조: https://www.notion.so/343e7e39b1978093bac4f74a55bdd871
+  - 사육사조: https://suave-kip-fd7.notion.site/350c2695cef0810ba23be547ed3a2b6a
   - 세븐일레븐: https://www.notion.so/337c6c4cb51580bca059e4a7826a98ef
   - 인텔리제이조: https://www.notion.so/1-333e5ca0a9718025aebaeb454e1d7d19
   - 남자만있조: https://superb-armchair-95d.notion.site/334f734340a78017b915f79f01ab2ec2?v=334f734340a780edbc5e000ca2c33f0a&source=copy_link
@@ -46,7 +46,7 @@ DB 설계서
 
 ---
 ### 팀 url
-- **집에가고싶조** : https://github.com/shortKDT 
+- **사육사조** : https://github.com/shortKDT 
 - **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
 - **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
 - **남자만있조** : https://github.com/izzyon0121/2026KDT_TEAM1
