@@ -5,7 +5,7 @@
   - 세븐일레븐: https://www.notion.so/35ec6c4cb5158096945ed5118927d80a
   - 인텔리제이조: https://www.notion.so/WDR-34f50085f74e8067891af6416e91d69c
   - 남자만있조: https://docs.google.com/document/d/181nX9Mbo_HZ8Ni526vTQqQldit-ByTE_MVfearJb74E/edit?usp=sharing
-  - 버그잡았조: 
+  - 버그잡았조: https://gamy-fennel-a0f.notion.site/34fef7ea7d3a8330975c01c97014b4d5
 
 
 ---
