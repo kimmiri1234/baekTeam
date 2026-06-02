@@ -43,18 +43,6 @@ DB 설계서
 
 
 ---
-### 260403
-시장 조사 및 벤치마킹
-  - 사육사조: https://suave-kip-fd7.notion.site/350c2695cef0810ba23be547ed3a2b6a
-  - 세븐일레븐: https://www.notion.so/337c6c4cb51580bca059e4a7826a98ef
-  - 인텔리제이조: https://www.notion.so/1-333e5ca0a9718025aebaeb454e1d7d19
-  - 남자만있조: https://superb-armchair-95d.notion.site/334f734340a78017b915f79f01ab2ec2?v=334f734340a780edbc5e000ca2c33f0a&source=copy_link
-  - 버그잡았조:https://docs.google.com/document/d/1bXYUe9IgjIPNUM2Ms67_BA_QahPjE1XNiJi_MW5MTYw/edit?usp=sharing
-
-
-
-
----
 ### 팀 url
 - **사육사조** : https://github.com/shortKDT 
 - **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
