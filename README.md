@@ -1,4 +1,15 @@
 # baekTeam
+
+### 260608
+포트폴리오
+  - 사육사조: 
+  - 세븐일레븐: 
+  - 인텔리제이조: 
+  - 남자만있조: 
+  - 버그잡았조:
+
+
+---
 ### 260512
 작업일지
   - 사육사조: https://docs.google.com/document/d/1dVSdk9_XY6iGct6hbBqkIfOONJ4G7_REaNwQ3mR1rSQ/edit?usp=sharing
